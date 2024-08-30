@@ -1,16 +1,15 @@
-## Hi there 👋
+Boas vindas ao meu perfil 💙💙
 
-<!--
-**milebrazini/milebrazini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Camille Brazini
 
-Here are some ideas to get you started:
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Você pode entrar em contato comigo 📫
+
+camillevictoriabrazini@gmail.com
+@milebrazini
+
+![![image](https://github.com/user-attachments/assets/7303aee9-21f8-44ec-aed4-4f2cb16349d4)
+(link)
